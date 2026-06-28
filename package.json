@@ -1,0 +1,12 @@
+{
+  "name": "sparx-cloud-backend",
+  "version": "1.0.0",
+  "description": "Cloud-routed server lookup backend",
+  "main": "api/sniper.js",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
